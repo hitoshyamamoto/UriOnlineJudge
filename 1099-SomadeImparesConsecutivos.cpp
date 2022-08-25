@@ -17,7 +17,6 @@ int main(){
             if(j%2!=0) soma+=j;
         }
         cout<<soma<<endl;
-
     }
 
     return 0;
