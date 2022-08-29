@@ -7,7 +7,7 @@ int main(){
     cin >> entrada;
 
     for(int i=1; i<=entrada; i++){
-        if(6%i==0){
+        if(entrada%i==0){
             cout << i << endl;
         }
     }
